@@ -1,0 +1,595 @@
+{
+  "book": [
+  {
+    "id": 1,
+    "title": "Apostila de Inglês - Nível Iniciante",
+    "modules": [
+      {
+        "id": 1,
+        "title": "Saudações e Introduções",
+        "words": [
+          {
+            "english": "Hello",
+            "portuguese": "Olá",
+            "questions": [
+              "Como se diz 'Olá' em inglês?",
+              "Qual é o cumprimento formal para 'Olá' em inglês?"
+            ]
+          },
+          {
+            "english": "Hi",
+            "portuguese": "Oi",
+            "questions": [
+              "Qual é a forma informal de dizer 'Olá' em inglês?",
+              "Como se traduz 'Oi' para o inglês?"
+            ]
+          },
+          {
+            "english": "Good morning",
+            "portuguese": "Bom dia",
+            "questions": [
+              "Como você cumprimenta alguém de manhã em inglês?",
+              "Qual é a tradução de 'Bom dia' para o inglês?"
+            ]
+          },
+          {
+            "english": "Good afternoon",
+            "portuguese": "Boa tarde",
+            "questions": [
+              "Como você cumprimenta alguém à tarde em inglês?",
+              "Como se diz 'Boa tarde' em inglês?"
+            ]
+          },
+          {
+            "english": "Good evening",
+            "portuguese": "Boa noite",
+            "questions": [
+              "Qual é a forma de dizer 'Boa noite' (ao encontrar alguém) em inglês?",
+              "Como se cumprimenta alguém à noite em inglês?"
+            ]
+          },
+          {
+            "english": "Goodbye",
+            "portuguese": "Adeus",
+            "questions": [
+              "Como você se despede em inglês?",
+              "Qual é a tradução de 'Adeus' para o inglês?"
+            ]
+          },
+          {
+            "english": "Please",
+            "portuguese": "Por favor",
+            "questions": [
+              "Qual palavra você usa para ser educado ao pedir algo em inglês?",
+              "Como se diz 'Por favor' em inglês?"
+            ]
+          },
+          {
+            "english": "Thank you",
+            "portuguese": "Obrigado(a)",
+            "questions": [
+              "Como você agradece alguém em inglês?",
+              "Qual é a tradução de 'Obrigado(a)' para o inglês?"
+            ]
+          },
+          {
+            "english": "Yes",
+            "portuguese": "Sim",
+            "questions": [
+              "Como se diz 'Sim' em inglês?",
+              "Qual é a palavra afirmativa em inglês?"
+            ]
+          },
+          {
+            "english": "No",
+            "portuguese": "Não",
+            "questions": [
+              "Como se diz 'Não' em inglês?",
+              "Qual é a palavra negativa em inglês?"
+            ]
+          }
+        ],
+        "structures_and_examples": {
+          "verb_to_be": {
+            "singular": [
+              { "english": "I am (I'm)", "portuguese": "Eu sou/estou" },
+              { "english": "You are (You're)", "portuguese": "Você é/está" },
+              { "english": "He is (He's)", "portuguese": "Ele é/está" },
+              { "english": "She is (She's)", "portuguese": "Ela é/está" },
+              { "english": "It is (It's)", "portuguese": "Isto é/está" }
+            ],
+            "plural": [
+              { "english": "We are (We're)", "portuguese": "Nós somos/estamos" },
+              { "english": "You are (You're)", "portuguese": "Vocês são/estão" },
+              { "english": "They are (They're)", "portuguese": "Eles/Elas são/estão" }
+            ],
+            "examples": [
+              { "english": "I am a teacher.", "portuguese": "Eu sou um professor." },
+              { "english": "You are a student.", "portuguese": "Você é um aluno." },
+              { "english": "She is happy.", "portuguese": "Ela está feliz." }
+            ]
+          }
+        },
+        "questions_and_answers": [
+          {
+            "question": "What's your name?",
+            "portuguese": "Qual é o seu nome?",
+            "answer": "My name is...",
+            "portuguese_answer": "Meu nome é..."
+          },
+          {
+            "question": "How are you?",
+            "portuguese": "Como você está?",
+            "answer": "I am fine, thank you.",
+            "portuguese_answer": "Estou bem, obrigado(a)."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Objetos de Sala de Aula",
+        "words": [
+          {
+            "english": "Book",
+            "portuguese": "Livro",
+            "questions": [
+              "Como se diz 'Livro' em inglês?",
+              "Qual é a tradução de 'Book' para o português?"
+            ]
+          },
+          {
+            "english": "Pen",
+            "portuguese": "Caneta",
+            "questions": [
+              "Qual objeto você usa para escrever com tinta em inglês?",
+              "Como se diz 'Caneta' em inglês?"
+            ]
+          },
+          {
+            "english": "Pencil",
+            "portuguese": "Lápis",
+            "questions": [
+              "Como se diz 'Lápis' em inglês?",
+              "Qual objeto você usa para escrever que pode ser apagado?"
+            ]
+          },
+          {
+            "english": "Desk",
+            "portuguese": "Mesa",
+            "questions": [
+              "Onde você coloca seus materiais de estudo em uma sala de aula?",
+              "Como se traduz 'Mesa' para o inglês?"
+            ]
+          },
+          {
+            "english": "Chair",
+            "portuguese": "Cadeira",
+            "questions": [
+              "Em que você se senta na sala de aula?",
+              "Como se diz 'Cadeira' em inglês?"
+            ]
+          },
+          {
+            "english": "Board",
+            "portuguese": "Quadro",
+            "questions": [
+              "Onde o professor escreve para a classe ver?",
+              "Como se traduz 'Quadro' para o inglês?"
+            ]
+          },
+          {
+            "english": "Eraser",
+            "portuguese": "Borracha",
+            "questions": [
+              "O que você usa para apagar lápis?",
+              "Como se diz 'Borracha' em inglês?"
+            ]
+          },
+          {
+            "english": "Bag",
+            "portuguese": "Mochila",
+            "questions": [
+              "Onde você carrega seus livros e materiais escolares?",
+              "Como se traduz 'Mochila' para o inglês?"
+            ]
+          }
+        ],
+        "structures_and_examples": [
+            {
+              "title": "Verb to be",
+              "sections": [
+                {
+                  "title": "Singular",
+                  "content": [
+                    { "english": "I am (I'm)", "portuguese": "Eu sou/estou" },
+                    { "english": "You are (You're)", "portuguese": "Você é/está" },
+                    { "english": "He is (He's)", "portuguese": "Ele é/está" },
+                    { "english": "She is (She's)", "portuguese": "Ela é/está" },
+                    { "english": "It is (It's)", "portuguese": "Isto é/está" }
+                  ]
+                },
+                {
+                  "title": "Plural",
+                  "content": [
+                    { "english": "We are (We're)", "portuguese": "Nós somos/estamos" },
+                    { "english": "You are (You're)", "portuguese": "Vocês são/estão" },
+                    { "english": "They are (They're)", "portuguese": "Eles/Elas são/estão" }
+                  ]
+                }
+              ],
+              "examples": [
+                { "english": "I am a teacher.", "portuguese": "Eu sou um professor." },
+                { "english": "You are a student.", "portuguese": "Você é um aluno." },
+                { "english": "She is happy.", "portuguese": "Ela está feliz." }
+              ]
+            }
+          ],
+        "questions_and_answers": [
+          {
+            "question": "What is this?",
+            "portuguese": "O que é isto?",
+            "answer": "This is a pencil.",
+            "portuguese_answer": "Isto é um lápis."
+          },
+          {
+            "question": "Is this a book?",
+            "portuguese": "Isto é um livro?",
+            "answer": "Yes, it is. / No, it isn't.",
+            "portuguese_answer": "Sim, é. / Não, não é."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Cores e Números",
+        "words": [
+          {
+            "english": "Red",
+            "portuguese": "Vermelho",
+            "questions": [
+              "Como se diz 'Vermelho' em inglês?",
+              "Qual cor representa o sangue em inglês?"
+            ]
+          },
+          {
+            "english": "Blue",
+            "portuguese": "Azul",
+            "questions": [
+              "Qual é a cor do céu em um dia claro em inglês?",
+              "Como se diz 'Azul' em inglês?"
+            ]
+          },
+          {
+            "english": "Green",
+            "portuguese": "Verde",
+            "questions": [
+              "Qual cor representa a natureza em inglês?",
+              "Como se traduz 'Verde' para o inglês?"
+            ]
+          },
+          {
+            "english": "Yellow",
+            "portuguese": "Amarelo",
+            "questions": [
+              "Como se diz 'Amarelo' em inglês?",
+              "Qual cor é associada ao sol em desenhos infantis em inglês?"
+            ]
+          },
+          {
+            "english": "Black",
+            "portuguese": "Preto",
+            "questions": [
+              "Qual é a cor oposta ao branco em inglês?",
+              "Como se traduz 'Preto' para o inglês?"
+            ]
+          },
+          {
+            "english": "White",
+            "portuguese": "Branco",
+            "questions": [
+              "Como se diz 'Branco' em inglês?",
+              "Qual cor representa a pureza em inglês?"
+            ]
+          },
+          {
+            "english": "One",
+            "portuguese": "Um",
+            "questions": [
+              "Como se diz 'Um' em inglês?",
+              "Qual é o primeiro número em inglês?"
+            ]
+          },
+          {
+            "english": "Two",
+            "portuguese": "Dois",
+            "questions": [
+              "Como se diz 'Dois' em inglês?",
+              "Qual número vem depois de um em inglês?"
+            ]
+          },
+          {
+            "english": "Three",
+            "portuguese": "Três",
+            "questions": [
+              "Como se diz 'Três' em inglês?",
+              "Qual é a tradução de 'Three' para o português?"
+            ]
+          },
+          {
+            "english": "Four",
+            "portuguese": "Quatro",
+            "questions": [
+              "Qual é o número quatro em inglês?",
+              "Como se traduz 'Quatro' para o inglês?"
+            ]
+          },
+          {
+            "english": "Five",
+            "portuguese": "Cinco",
+            "questions": [
+              "Como se diz 'Cinco' em inglês?",
+              "Qual é o número cinco em inglês?"
+            ]
+          },
+          {
+            "english": "Six",
+            "portuguese": "Seis",
+            "questions": [
+              "Como se diz 'Seis' em inglês?",
+              "Qual número vem depois de cinco em inglês?"
+            ]
+          },
+          {
+            "english": "Seven",
+            "portuguese": "Sete",
+            "questions": [
+              "Como se diz 'Sete' em inglês?",
+              "Qual é o número sete em inglês?"
+            ]
+          },
+          {
+            "english": "Eight",
+            "portuguese": "Oito",
+            "questions": [
+              "Como se diz 'Oito' em inglês?",
+              "Qual número vem antes de nove em inglês?"
+            ]
+          },
+          {
+            "english": "Nine",
+            "portuguese": "Nove",
+            "questions": [
+              "Como se diz 'Nove' em inglês?",
+              "Qual é o número nove em inglês?"
+            ]
+          },
+          {
+            "english": "Ten",
+            "portuguese": "Dez",
+            "questions": [
+              "Como se diz 'Dez' em inglês?",
+              "Qual número vem depois de nove em inglês?"
+            ]
+          }
+        ],
+         "structures_and_examples": [
+            {
+              "title": "Color Sentences",
+              "examples": [
+                { "english": "It's a red book.", "portuguese": "É um livro vermelho." },
+                { "english": "I have two pens.", "portuguese": "Eu tenho duas canetas." }
+              ]
+            }
+          ],
+        "questions_and_answers": [
+          {
+            "question": "What color is the book?",
+            "portuguese": "De que cor é o livro?",
+            "answer": "It's blue.",
+            "portuguese_answer": "É azul."
+          },
+          {
+            "question": "How many chairs are there?",
+            "portuguese": "Quantas cadeiras há?",
+            "answer": "There are five chairs.",
+            "portuguese_answer": "Há cinco cadeiras."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Verbos Modais Iniciais",
+        "words": [
+          {
+            "english": "Can",
+            "portuguese": "Poder",
+            "questions": [
+              "Qual verbo modal expressa habilidade em inglês?",
+              "Como se diz 'poder' no sentido de habilidade em inglês?"
+            ]
+          }
+        ],
+        "structures_and_examples": [
+  {
+    "title": "Modal Verb: Can",
+    "sections": [
+      {
+        "title": "Affirmative",
+        "content": [
+          { "english": "I can swim.", "portuguese": "Eu posso nadar." },
+          { "english": "They can play soccer.", "portuguese": "Eles podem jogar futebol." }
+        ]
+      },
+      {
+        "title": "Negative",
+        "content": [
+          { "english": "She can't drive.", "portuguese": "Ela não pode dirigir." },
+          { "english": "We can't come today.", "portuguese": "Nós não podemos vir hoje." }
+        ]
+      },
+      {
+        "title": "Interrogative",
+        "content": [
+          { "english": "Can you help me?", "portuguese": "Você pode me ajudar?" }
+        ]
+      },
+      {
+        "title": "Responses",
+        "content": [
+          { "english": "Yes, I can.", "portuguese": "Sim, posso." },
+          { "english": "No, I can't.", "portuguese": "Não, não posso." }
+        ]
+      }
+    ],
+    "examples": []
+  }
+]
+      },
+      {
+        "id": 5,
+        "title": "Dias da Semana e Rotinas Diárias",
+        "words": [
+          {
+            "english": "Monday",
+            "portuguese": "Segunda-feira",
+            "questions": [
+              "Qual é o primeiro dia da semana em inglês?",
+              "Como se diz 'Segunda-feira' em inglês?"
+            ]
+          },
+          {
+            "english": "Tuesday",
+            "portuguese": "Terça-feira",
+            "questions": [
+              "Como se diz 'Terça-feira' em inglês?",
+              "Qual dia da semana vem depois de segunda-feira em inglês?"
+            ]
+          },
+          {
+            "english": "Wednesday",
+            "portuguese": "Quarta-feira",
+            "questions": [
+              "Como se diz 'Quarta-feira' em inglês?",
+              "Qual é o meio da semana em inglês?"
+            ]
+          },
+          {
+            "english": "Thursday",
+            "portuguese": "Quinta-feira",
+            "questions": [
+              "Como se diz 'Quinta-feira' em inglês?",
+              "Qual dia da semana vem antes de sexta-feira em inglês?"
+            ]
+          },
+          {
+            "english": "Friday",
+            "portuguese": "Sexta-feira",
+            "questions": [
+              "Como se diz 'Sexta-feira' em inglês?",
+              "Qual dia da semana é conhecido como o início do fim de semana?"
+            ]
+          },
+          {
+            "english": "Saturday",
+            "portuguese": "Sábado",
+            "questions": [
+              "Como se diz 'Sábado' em inglês?",
+              "Qual é o primeiro dia do fim de semana em inglês?"
+            ]
+          },
+          {
+            "english": "Sunday",
+            "portuguese": "Domingo",
+            "questions": [
+              "Como se diz 'Domingo' em inglês?",
+              "Qual é o último dia da semana em inglês?"
+            ]
+          },
+          {
+            "english": "Wake up",
+            "portuguese": "Acordar",
+            "questions": [
+              "Qual é o verbo em inglês para 'Acordar'?",
+              "O que você faz pela manhã quando abre os olhos?"
+            ]
+          },
+          {
+            "english": "Have breakfast",
+            "portuguese": "Tomar café da manhã",
+            "questions": [
+              "Como se diz 'Tomar café da manhã' em inglês?",
+              "Qual é a primeira refeição do dia em inglês?"
+            ]
+          },
+          {
+            "english": "Go to school",
+            "portuguese": "Ir para a escola",
+            "questions": [
+              "Como se diz 'Ir para a escola' em inglês?",
+              "O que você faz de manhã se você é um estudante?"
+            ]
+          },
+          {
+            "english": "Study",
+            "portuguese": "Estudar",
+            "questions": [
+              "Qual é o verbo para 'Estudar' em inglês?",
+              "O que você faz para aprender novas matérias?"
+            ]
+          },
+          {
+            "english": "Go home",
+            "portuguese": "Ir para casa",
+            "questions": [
+              "Como se diz 'Ir para casa' em inglês?",
+              "O que você faz após a escola ou trabalho?"
+            ]
+          },
+          {
+            "english": "Sleep",
+            "portuguese": "Dormir",
+            "questions": [
+              "Qual é o verbo em inglês para 'Dormir'?",
+              "O que você faz à noite quando está cansado?"
+            ]
+          }
+        ],
+        "structures_and_examples": [
+  {
+    "title": "Daily Routines",
+    "examples": [
+      { "english": "I wake up at 7 am.", "portuguese": "Eu acordo às 7 da manhã." },
+      { "english": "She goes to school on Monday.", "portuguese": "Ela vai à escola na segunda-feira." }
+    ]
+  }
+]
+,
+        "questions_and_answers": [
+          {
+            "question": "What do you do on Friday?",
+            "portuguese": "O que você faz na sexta-feira?",
+            "answer": "I study English.",
+            "portuguese_answer": "Eu estudo inglês."
+          },
+          {
+            "question": "When do you go to school?",
+            "portuguese": "Quando você vai para a escola?",
+            "answer": "I go to school from Monday to Friday.",
+            "portuguese_answer": "Eu vou para a escola de segunda a sexta."
+          }
+        ]
+      }
+    ],
+    "teacher_tips": [
+      "Repetição: Incentive os alunos a repetir palavras e frases para melhorar a pronúncia e memorização.",
+      "Interação Oral: Promova diálogos simples, fazendo perguntas e estimulando os alunos a responderem.",
+      "Uso de Recursos Visuais: Utilize flashcards, imagens e objetos reais para tornar o aprendizado mais envolvente.",
+      "Prática em Grupo: Organize atividades em pares ou grupos para que os alunos pratiquem juntos.",
+      "Feedback Positivo: Elogie os esforços dos alunos e ofereça correções de forma encorajadora."
+    ],
+    "final_notes": "Esta apostila foi elaborada para proporcionar uma introdução ao inglês de forma dinâmica e interativa, seguindo os princípios do ensino direto. Sinta-se à vontade para adaptar o material conforme as necessidades específicas de sua turma. Boa aula e bom aprendizado a todos!"
+  }
+  ]
+}
+
+
