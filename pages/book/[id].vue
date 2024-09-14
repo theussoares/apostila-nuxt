@@ -4,7 +4,7 @@
   <div>
     <h1 class="p-4 text-xl font-bold mb-4">{{ currentBook?.title }}</h1>
     <ModuleView v-if="currentModule" :module="currentModule" />
-    <Navigation class="mb-4 gap-4" :hasPrev="hasPrev" :hasNext="hasNext" @prev="prevModule" @next="nextModule" />
+    <Navigation class="gap-4" :hasPrev="hasPrev" :hasNext="hasNext" @prev="prevModule" @next="nextModule" />
   </div>
 </template>
 

@@ -1,200 +1,264 @@
 {
   "book": [
-  {
-    "id": 1,
-    "title": "Apostila de Inglês - Nível Iniciante",
-    "modules": [
-      {
-        "id": 1,
-        "title": "Saudações e Introduções",
-        "words": [
-          {
-            "english": "Hello",
-            "portuguese": "Olá",
-            "questions": [
-              "Como se diz 'Olá' em inglês?",
-              "Qual é o cumprimento formal para 'Olá' em inglês?"
-            ]
+    {
+      "id": 1,
+      "title": "Apostila de Inglês - Nível Iniciante",
+      "modules": [
+        {
+          "id": 1,
+          "title": "Saudações e Introduções",
+          "words": [
+            {
+              "english": "Hello",
+              "portuguese": "Olá",
+              "questions": [
+                "How do you say 'Olá' in English?",
+                "What is the formal greeting for 'Olá' in English?"
+              ]
+            },
+            {
+              "english": "Hi",
+              "portuguese": "Oi",
+              "questions": [
+                "What is the informal way to say 'Olá' in English?",
+                "How do you translate 'Oi' into English?"
+              ]
+            },
+            {
+              "english": "Good morning",
+              "portuguese": "Bom dia",
+              "questions": [
+                "How do you greet someone in the morning in English?",
+                "What is the translation of 'Bom dia' into English?"
+              ]
+            },
+            {
+              "english": "Good afternoon",
+              "portuguese": "Boa tarde",
+              "questions": [
+                "How do you greet someone in the afternoon in English?",
+                "How do you say 'Boa tarde' in English?"
+              ]
+            },
+            {
+              "english": "Good evening",
+              "portuguese": "Boa noite",
+              "questions": [
+                "How do you say 'Boa noite' when meeting someone in English?",
+                "How do you greet someone in the evening in English?"
+              ]
+            },
+            {
+              "english": "Goodbye",
+              "portuguese": "Adeus",
+              "questions": [
+                "How do you say goodbye in English?",
+                "What is the translation of 'Adeus' into English?"
+              ]
+            },
+            {
+              "english": "Please",
+              "portuguese": "Por favor",
+              "questions": [
+                "Which word do you use to be polite when asking for something in English?",
+                "How do you say 'Por favor' in English?"
+              ]
+            },
+            {
+              "english": "Thank you",
+              "portuguese": "Obrigado(a)",
+              "questions": [
+                "How do you thank someone in English?",
+                "What is the translation of 'Obrigado(a)' into English?"
+              ]
+            },
+            {
+              "english": "Yes",
+              "portuguese": "Sim",
+              "questions": [
+                "How do you say 'Sim' in English?",
+                "What is the affirmative word in English?"
+              ]
+            },
+            {
+              "english": "No",
+              "portuguese": "Não",
+              "questions": [
+                "How do you say 'Não' in English?",
+                "What is the negative word in English?"
+              ]
+            }
+          ],
+          "structures_and_examples": {
+            "verb_to_be": {
+              "singular": [
+                { "english": "I am (I'm)", "portuguese": "Eu sou/estou" },
+                { "english": "You are (You're)", "portuguese": "Você é/está" },
+                { "english": "He is (He's)", "portuguese": "Ele é/está" },
+                { "english": "She is (She's)", "portuguese": "Ela é/está" },
+                { "english": "It is (It's)", "portuguese": "Isto é/está" }
+              ],
+              "plural": [
+                { "english": "We are (We're)", "portuguese": "Nós somos/estamos" },
+                { "english": "You are (You're)", "portuguese": "Vocês são/estão" },
+                { "english": "They are (They're)", "portuguese": "Eles/Elas são/estão" }
+              ],
+              "examples": [
+                { "english": "I am a teacher.", "portuguese": "Eu sou um professor." },
+                { "english": "You are a student.", "portuguese": "Você é um aluno." },
+                { "english": "She is happy.", "portuguese": "Ela está feliz." }
+              ]
+            }
           },
-          {
-            "english": "Hi",
-            "portuguese": "Oi",
-            "questions": [
-              "Qual é a forma informal de dizer 'Olá' em inglês?",
-              "Como se traduz 'Oi' para o inglês?"
-            ]
-          },
-          {
-            "english": "Good morning",
-            "portuguese": "Bom dia",
-            "questions": [
-              "Como você cumprimenta alguém de manhã em inglês?",
-              "Qual é a tradução de 'Bom dia' para o inglês?"
-            ]
-          },
-          {
-            "english": "Good afternoon",
-            "portuguese": "Boa tarde",
-            "questions": [
-              "Como você cumprimenta alguém à tarde em inglês?",
-              "Como se diz 'Boa tarde' em inglês?"
-            ]
-          },
-          {
-            "english": "Good evening",
-            "portuguese": "Boa noite",
-            "questions": [
-              "Qual é a forma de dizer 'Boa noite' (ao encontrar alguém) em inglês?",
-              "Como se cumprimenta alguém à noite em inglês?"
-            ]
-          },
-          {
-            "english": "Goodbye",
-            "portuguese": "Adeus",
-            "questions": [
-              "Como você se despede em inglês?",
-              "Qual é a tradução de 'Adeus' para o inglês?"
-            ]
-          },
-          {
-            "english": "Please",
-            "portuguese": "Por favor",
-            "questions": [
-              "Qual palavra você usa para ser educado ao pedir algo em inglês?",
-              "Como se diz 'Por favor' em inglês?"
-            ]
-          },
-          {
-            "english": "Thank you",
-            "portuguese": "Obrigado(a)",
-            "questions": [
-              "Como você agradece alguém em inglês?",
-              "Qual é a tradução de 'Obrigado(a)' para o inglês?"
-            ]
-          },
-          {
-            "english": "Yes",
-            "portuguese": "Sim",
-            "questions": [
-              "Como se diz 'Sim' em inglês?",
-              "Qual é a palavra afirmativa em inglês?"
-            ]
-          },
-          {
-            "english": "No",
-            "portuguese": "Não",
-            "questions": [
-              "Como se diz 'Não' em inglês?",
-              "Qual é a palavra negativa em inglês?"
-            ]
-          }
-        ],
-        "structures_and_examples": {
-          "verb_to_be": {
-            "singular": [
-              { "english": "I am (I'm)", "portuguese": "Eu sou/estou" },
-              { "english": "You are (You're)", "portuguese": "Você é/está" },
-              { "english": "He is (He's)", "portuguese": "Ele é/está" },
-              { "english": "She is (She's)", "portuguese": "Ela é/está" },
-              { "english": "It is (It's)", "portuguese": "Isto é/está" }
-            ],
-            "plural": [
-              { "english": "We are (We're)", "portuguese": "Nós somos/estamos" },
-              { "english": "You are (You're)", "portuguese": "Vocês são/estão" },
-              { "english": "They are (They're)", "portuguese": "Eles/Elas são/estão" }
-            ],
-            "examples": [
-              { "english": "I am a teacher.", "portuguese": "Eu sou um professor." },
-              { "english": "You are a student.", "portuguese": "Você é um aluno." },
-              { "english": "She is happy.", "portuguese": "Ela está feliz." }
-            ]
-          }
+          "questions_and_answers": [
+            {
+              "question": "What's your name?",
+              "portuguese": "Qual é o seu nome?",
+              "answer": "My name is...",
+              "portuguese_answer": "Meu nome é..."
+            },
+            {
+              "question": "How are you?",
+              "portuguese": "Como você está?",
+              "answer": "I am fine, thank you.",
+              "portuguese_answer": "Estou bem, obrigado(a)."
+            }
+          ]
         },
-        "questions_and_answers": [
-          {
-            "question": "What's your name?",
-            "portuguese": "Qual é o seu nome?",
-            "answer": "My name is...",
-            "portuguese_answer": "Meu nome é..."
-          },
-          {
-            "question": "How are you?",
-            "portuguese": "Como você está?",
-            "answer": "I am fine, thank you.",
-            "portuguese_answer": "Estou bem, obrigado(a)."
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Objetos de Sala de Aula",
-        "words": [
-          {
-            "english": "Book",
-            "portuguese": "Livro",
-            "questions": [
-              "Como se diz 'Livro' em inglês?",
-              "Qual é a tradução de 'Book' para o português?"
-            ]
-          },
-          {
-            "english": "Pen",
-            "portuguese": "Caneta",
-            "questions": [
-              "Qual objeto você usa para escrever com tinta em inglês?",
-              "Como se diz 'Caneta' em inglês?"
-            ]
-          },
-          {
-            "english": "Pencil",
-            "portuguese": "Lápis",
-            "questions": [
-              "Como se diz 'Lápis' em inglês?",
-              "Qual objeto você usa para escrever que pode ser apagado?"
-            ]
-          },
-          {
-            "english": "Desk",
-            "portuguese": "Mesa",
-            "questions": [
-              "Onde você coloca seus materiais de estudo em uma sala de aula?",
-              "Como se traduz 'Mesa' para o inglês?"
-            ]
-          },
-          {
-            "english": "Chair",
-            "portuguese": "Cadeira",
-            "questions": [
-              "Em que você se senta na sala de aula?",
-              "Como se diz 'Cadeira' em inglês?"
-            ]
-          },
-          {
-            "english": "Board",
-            "portuguese": "Quadro",
-            "questions": [
-              "Onde o professor escreve para a classe ver?",
-              "Como se traduz 'Quadro' para o inglês?"
-            ]
-          },
-          {
-            "english": "Eraser",
-            "portuguese": "Borracha",
-            "questions": [
-              "O que você usa para apagar lápis?",
-              "Como se diz 'Borracha' em inglês?"
-            ]
-          },
-          {
-            "english": "Bag",
-            "portuguese": "Mochila",
-            "questions": [
-              "Onde você carrega seus livros e materiais escolares?",
-              "Como se traduz 'Mochila' para o inglês?"
-            ]
-          }
-        ],
-        "structures_and_examples": [
+        {
+          "id": 2,
+          "title": "Objetos de Sala de Aula",
+          "words": [
+            {
+              "english": "Pen",
+              "portuguese": "Caneta",
+              "questions": [
+                "What's this?",
+                "Is this a pen?"
+              ]
+            },
+            {
+              "english": "Pencil",
+              "portuguese": "Lápis",
+              "questions": [
+                "What's this?",
+                "Is this a pencil?"
+              ]
+            },
+            {
+              "english": "Book",
+              "portuguese": "Livro",
+              "questions": [
+                "What's this?",
+                "Is this a book?"
+              ]
+            },
+            {
+              "english": "Table",
+              "portuguese": "Mesa",
+              "questions": [
+                "Is the table small?",
+                "Where is the table?"
+              ]
+            },
+            {
+              "english": "Chair",
+              "portuguese": "Cadeira",
+              "questions": [
+                "Is this a chair?",
+                "What's this?"
+              ]
+            },
+            {
+              "english": "Light",
+              "portuguese": "Luz",
+              "questions": [
+                "Is the light on?",
+                "What color is the light?"
+              ]
+            },
+            {
+              "english": "Wall",
+              "portuguese": "Parede",
+              "questions": [
+                "What's this?",
+                "Is the wall white?"
+              ]
+            },
+            {
+              "english": "Floor",
+              "portuguese": "Chão",
+              "questions": [
+                "Is the floor clean?",
+                "What's on the floor?"
+              ]
+            },
+            {
+              "english": "Room",
+              "portuguese": "Sala",
+              "questions": [
+                "Is this a room?",
+                "What's in the room?"
+              ]
+            },
+            {
+              "english": "Ceiling",
+              "portuguese": "Teto",
+              "questions": [
+                "What's this?",
+                "Is the ceiling high?"
+              ]
+            },
+            {
+              "english": "Window",
+              "portuguese": "Janela",
+              "questions": [
+                "Is the window open?",
+                "What's this?"
+              ]
+            },
+            {
+              "english": "Door",
+              "portuguese": "Porta",
+              "questions": [
+                "Is the door closed?",
+                "What's this?"
+              ]
+            },
+            {
+              "english": "Box",
+              "portuguese": "Caixa",
+              "questions": [
+                "Is the box large?",
+                "What's in the box?"
+              ]
+            },
+            {
+              "english": "Picture",
+              "portuguese": "Quadro",
+              "questions": [
+                "Is this a picture?",
+                "What's in the picture?"
+              ]
+            },
+            {
+              "english": "Card",
+              "portuguese": "Cartão",
+              "questions": [
+                "Do you have a card?",
+                "What's this?"
+              ]
+            },
+            {
+              "english": "House",
+              "portuguese": "Casa",
+              "questions": [
+                "Is this your house?",
+                "Where is the house?"
+              ]
+            }
+          ],
+          "structures_and_examples": [
             {
               "title": "Verb to be",
               "sections": [
@@ -224,372 +288,788 @@
               ]
             }
           ],
-        "questions_and_answers": [
-          {
-            "question": "What is this?",
-            "portuguese": "O que é isto?",
-            "answer": "This is a pencil.",
-            "portuguese_answer": "Isto é um lápis."
-          },
-          {
-            "question": "Is this a book?",
-            "portuguese": "Isto é um livro?",
-            "answer": "Yes, it is. / No, it isn't.",
-            "portuguese_answer": "Sim, é. / Não, não é."
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Cores e Números",
-        "words": [
-          {
-            "english": "Red",
-            "portuguese": "Vermelho",
-            "questions": [
-              "Como se diz 'Vermelho' em inglês?",
-              "Qual cor representa o sangue em inglês?"
-            ]
-          },
-          {
-            "english": "Blue",
-            "portuguese": "Azul",
-            "questions": [
-              "Qual é a cor do céu em um dia claro em inglês?",
-              "Como se diz 'Azul' em inglês?"
-            ]
-          },
-          {
-            "english": "Green",
-            "portuguese": "Verde",
-            "questions": [
-              "Qual cor representa a natureza em inglês?",
-              "Como se traduz 'Verde' para o inglês?"
-            ]
-          },
-          {
-            "english": "Yellow",
-            "portuguese": "Amarelo",
-            "questions": [
-              "Como se diz 'Amarelo' em inglês?",
-              "Qual cor é associada ao sol em desenhos infantis em inglês?"
-            ]
-          },
-          {
-            "english": "Black",
-            "portuguese": "Preto",
-            "questions": [
-              "Qual é a cor oposta ao branco em inglês?",
-              "Como se traduz 'Preto' para o inglês?"
-            ]
-          },
-          {
-            "english": "White",
-            "portuguese": "Branco",
-            "questions": [
-              "Como se diz 'Branco' em inglês?",
-              "Qual cor representa a pureza em inglês?"
-            ]
-          },
-          {
-            "english": "One",
-            "portuguese": "Um",
-            "questions": [
-              "Como se diz 'Um' em inglês?",
-              "Qual é o primeiro número em inglês?"
-            ]
-          },
-          {
-            "english": "Two",
-            "portuguese": "Dois",
-            "questions": [
-              "Como se diz 'Dois' em inglês?",
-              "Qual número vem depois de um em inglês?"
-            ]
-          },
-          {
-            "english": "Three",
-            "portuguese": "Três",
-            "questions": [
-              "Como se diz 'Três' em inglês?",
-              "Qual é a tradução de 'Three' para o português?"
-            ]
-          },
-          {
-            "english": "Four",
-            "portuguese": "Quatro",
-            "questions": [
-              "Qual é o número quatro em inglês?",
-              "Como se traduz 'Quatro' para o inglês?"
-            ]
-          },
-          {
-            "english": "Five",
-            "portuguese": "Cinco",
-            "questions": [
-              "Como se diz 'Cinco' em inglês?",
-              "Qual é o número cinco em inglês?"
-            ]
-          },
-          {
-            "english": "Six",
-            "portuguese": "Seis",
-            "questions": [
-              "Como se diz 'Seis' em inglês?",
-              "Qual número vem depois de cinco em inglês?"
-            ]
-          },
-          {
-            "english": "Seven",
-            "portuguese": "Sete",
-            "questions": [
-              "Como se diz 'Sete' em inglês?",
-              "Qual é o número sete em inglês?"
-            ]
-          },
-          {
-            "english": "Eight",
-            "portuguese": "Oito",
-            "questions": [
-              "Como se diz 'Oito' em inglês?",
-              "Qual número vem antes de nove em inglês?"
-            ]
-          },
-          {
-            "english": "Nine",
-            "portuguese": "Nove",
-            "questions": [
-              "Como se diz 'Nove' em inglês?",
-              "Qual é o número nove em inglês?"
-            ]
-          },
-          {
-            "english": "Ten",
-            "portuguese": "Dez",
-            "questions": [
-              "Como se diz 'Dez' em inglês?",
-              "Qual número vem depois de nove em inglês?"
-            ]
-          }
-        ],
-         "structures_and_examples": [
+          "questions_and_answers": [
             {
-              "title": "Color Sentences",
-              "examples": [
-                { "english": "It's a red book.", "portuguese": "É um livro vermelho." },
-                { "english": "I have two pens.", "portuguese": "Eu tenho duas canetas." }
+              "question": "What is this?",
+              "portuguese": "O que é isto?",
+              "answer": "This is a pencil.",
+              "portuguese_answer": "Isto é um lápis."
+            },
+            {
+              "question": "Is this a book?",
+              "portuguese": "Isto é um livro?",
+              "answer": "Yes, it is. / No, it isn't.",
+              "portuguese_answer": "Sim, é. / Não, não é."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Cores e Números",
+          "words": [
+            {
+              "english": "Black",
+              "portuguese": "Preto",
+              "questions": [
+                "What color is this pencil?",
+                "Is the pen black?"
+              ]
+            },
+            {
+              "english": "White",
+              "portuguese": "Branco",
+              "questions": [
+                "Is the paper white?",
+                "What color is the wall?"
+              ]
+            },
+            {
+              "english": "Green",
+              "portuguese": "Verde",
+              "questions": [
+                "What color is the grass?",
+                "Is the board green?"
+              ]
+            },
+            {
+              "english": "Brown",
+              "portuguese": "Marrom",
+              "questions": [
+                "What color is the table?",
+                "Is the box brown?"
+              ]
+            },
+            {
+              "english": "Open",
+              "portuguese": "Aberto",
+              "questions": [
+                "Is the door open?",
+                "Is the window open or closed?"
+              ]
+            },
+            {
+              "english": "Closed",
+              "portuguese": "Fechado",
+              "questions": [
+                "Is the book closed?",
+                "Is the store open or closed now?"
+              ]
+            },
+            {
+              "english": "High",
+              "portuguese": "Alto",
+              "questions": [
+                "Is the ceiling high?",
+                "How high is the mountain?"
+              ]
+            },
+            {
+              "english": "Low",
+              "portuguese": "Baixo",
+              "questions": [
+                "Is the table low?",
+                "Is the price high or low?"
+              ]
+            },
+            {
+              "english": "One",
+              "portuguese": "Um",
+              "questions": [
+                "How many pens are there? One.",
+                "Is there one book?"
+              ]
+            },
+            {
+              "english": "Two",
+              "portuguese": "Dois",
+              "questions": [
+                "How many pencils are there? Two.",
+                "Are there two chairs?"
+              ]
+            },
+            {
+              "english": "Three",
+              "portuguese": "Três",
+              "questions": [
+                "How many books are there? Three.",
+                "Are there three tables?"
+              ]
+            },
+            {
+              "english": "Four",
+              "portuguese": "Quatro",
+              "questions": [
+                "How many windows are there? Four.",
+                "Are there four doors?"
+              ]
+            },
+            {
+              "english": "Five",
+              "portuguese": "Cinco",
+              "questions": [
+                "How many lights are there? Five.",
+                "Are there five people?"
+              ]
+            },
+            {
+              "english": "How much?/ PLUS / EQUALS",
+              "portuguese": "Quanto é?/ + / =",
+              "questions": [
+                "How much is five plus one? Six.",
+                "How much is two plus one? Three."
+              ]
+            },
+            {
+              "english": "What color?",
+              "portuguese": "Qual cor?",
+              "questions": [
+                "What color is this pencil?",
+                "What color is the chair?"
               ]
             }
           ],
-        "questions_and_answers": [
-          {
-            "question": "What color is the book?",
-            "portuguese": "De que cor é o livro?",
-            "answer": "It's blue.",
-            "portuguese_answer": "É azul."
-          },
-          {
-            "question": "How many chairs are there?",
-            "portuguese": "Quantas cadeiras há?",
-            "answer": "There are five chairs.",
-            "portuguese_answer": "Há cinco cadeiras."
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Verbos Modais Iniciais",
-        "words": [
-          {
-            "english": "Can",
-            "portuguese": "Poder",
-            "questions": [
-              "Qual verbo modal expressa habilidade em inglês?",
-              "Como se diz 'poder' no sentido de habilidade em inglês?"
-            ]
-          }
-        ],
-        "structures_and_examples": [
-  {
-    "title": "Modal Verb: Can",
-    "sections": [
-      {
-        "title": "Affirmative",
-        "content": [
-          { "english": "I can swim.", "portuguese": "Eu posso nadar." },
-          { "english": "They can play soccer.", "portuguese": "Eles podem jogar futebol." }
-        ]
-      },
-      {
-        "title": "Negative",
-        "content": [
-          { "english": "She can't drive.", "portuguese": "Ela não pode dirigir." },
-          { "english": "We can't come today.", "portuguese": "Nós não podemos vir hoje." }
-        ]
-      },
-      {
-        "title": "Interrogative",
-        "content": [
-          { "english": "Can you help me?", "portuguese": "Você pode me ajudar?" }
-        ]
-      },
-      {
-        "title": "Responses",
-        "content": [
-          { "english": "Yes, I can.", "portuguese": "Sim, posso." },
-          { "english": "No, I can't.", "portuguese": "Não, não posso." }
-        ]
-      }
-    ],
-    "examples": []
-  }
-]
-      },
-      {
-        "id": 5,
-        "title": "Dias da Semana e Rotinas Diárias",
-        "words": [
-          {
-            "english": "Monday",
-            "portuguese": "Segunda-feira",
-            "questions": [
-              "Qual é o primeiro dia da semana em inglês?",
-              "Como se diz 'Segunda-feira' em inglês?"
-            ]
-          },
-          {
-            "english": "Tuesday",
-            "portuguese": "Terça-feira",
-            "questions": [
-              "Como se diz 'Terça-feira' em inglês?",
-              "Qual dia da semana vem depois de segunda-feira em inglês?"
-            ]
-          },
-          {
-            "english": "Wednesday",
-            "portuguese": "Quarta-feira",
-            "questions": [
-              "Como se diz 'Quarta-feira' em inglês?",
-              "Qual é o meio da semana em inglês?"
-            ]
-          },
-          {
-            "english": "Thursday",
-            "portuguese": "Quinta-feira",
-            "questions": [
-              "Como se diz 'Quinta-feira' em inglês?",
-              "Qual dia da semana vem antes de sexta-feira em inglês?"
-            ]
-          },
-          {
-            "english": "Friday",
-            "portuguese": "Sexta-feira",
-            "questions": [
-              "Como se diz 'Sexta-feira' em inglês?",
-              "Qual dia da semana é conhecido como o início do fim de semana?"
-            ]
-          },
-          {
-            "english": "Saturday",
-            "portuguese": "Sábado",
-            "questions": [
-              "Como se diz 'Sábado' em inglês?",
-              "Qual é o primeiro dia do fim de semana em inglês?"
-            ]
-          },
-          {
-            "english": "Sunday",
-            "portuguese": "Domingo",
-            "questions": [
-              "Como se diz 'Domingo' em inglês?",
-              "Qual é o último dia da semana em inglês?"
-            ]
-          },
-          {
-            "english": "Wake up",
-            "portuguese": "Acordar",
-            "questions": [
-              "Qual é o verbo em inglês para 'Acordar'?",
-              "O que você faz pela manhã quando abre os olhos?"
-            ]
-          },
-          {
-            "english": "Have breakfast",
-            "portuguese": "Tomar café da manhã",
-            "questions": [
-              "Como se diz 'Tomar café da manhã' em inglês?",
-              "Qual é a primeira refeição do dia em inglês?"
-            ]
-          },
-          {
-            "english": "Go to school",
-            "portuguese": "Ir para a escola",
-            "questions": [
-              "Como se diz 'Ir para a escola' em inglês?",
-              "O que você faz de manhã se você é um estudante?"
-            ]
-          },
-          {
-            "english": "Study",
-            "portuguese": "Estudar",
-            "questions": [
-              "Qual é o verbo para 'Estudar' em inglês?",
-              "O que você faz para aprender novas matérias?"
-            ]
-          },
-          {
-            "english": "Go home",
-            "portuguese": "Ir para casa",
-            "questions": [
-              "Como se diz 'Ir para casa' em inglês?",
-              "O que você faz após a escola ou trabalho?"
-            ]
-          },
-          {
-            "english": "Sleep",
-            "portuguese": "Dormir",
-            "questions": [
-              "Qual é o verbo em inglês para 'Dormir'?",
-              "O que você faz à noite quando está cansado?"
-            ]
-          }
-        ],
-        "structures_and_examples": [
-  {
-    "title": "Daily Routines",
-    "examples": [
-      { "english": "I wake up at 7 am.", "portuguese": "Eu acordo às 7 da manhã." },
-      { "english": "She goes to school on Monday.", "portuguese": "Ela vai à escola na segunda-feira." }
-    ]
-  }
-]
-,
-        "questions_and_answers": [
-          {
-            "question": "What do you do on Friday?",
-            "portuguese": "O que você faz na sexta-feira?",
-            "answer": "I study English.",
-            "portuguese_answer": "Eu estudo inglês."
-          },
-          {
-            "question": "When do you go to school?",
-            "portuguese": "Quando você vai para a escola?",
-            "answer": "I go to school from Monday to Friday.",
-            "portuguese_answer": "Eu vou para a escola de segunda a sexta."
-          }
-        ]
-      }
-    ],
-    "teacher_tips": [
-      "Repetição: Incentive os alunos a repetir palavras e frases para melhorar a pronúncia e memorização.",
-      "Interação Oral: Promova diálogos simples, fazendo perguntas e estimulando os alunos a responderem.",
-      "Uso de Recursos Visuais: Utilize flashcards, imagens e objetos reais para tornar o aprendizado mais envolvente.",
-      "Prática em Grupo: Organize atividades em pares ou grupos para que os alunos pratiquem juntos.",
-      "Feedback Positivo: Elogie os esforços dos alunos e ofereça correções de forma encorajadora."
-    ],
-    "final_notes": "Esta apostila foi elaborada para proporcionar uma introdução ao inglês de forma dinâmica e interativa, seguindo os princípios do ensino direto. Sinta-se à vontade para adaptar o material conforme as necessidades específicas de sua turma. Boa aula e bom aprendizado a todos!"
-  }
+          "structures_and_examples": [
+            {
+              "title": "Numbers",
+              "sections": [
+                {
+                  "title": "Cardinal",
+                  "content": [
+                    { "english": "One (1)", "portuguese": "Um" },
+                    { "english": "Two (2)", "portuguese": "Dois" },
+                    { "english": "Three (3)", "portuguese": "Três" },
+                    { "english": "Four (4)", "portuguese": "Quatro" },
+                    { "english": "Five (5)", "portuguese": "Cinco" },
+                    { "english": "Six (6)", "portuguese": "Seis" },
+                    { "english": "Seven (7)", "portuguese": "Sete" },
+                    { "english": "Eight (8)", "portuguese": "Oito" },
+                    { "english": "Nine (9)", "portuguese": "Nove" },
+                    { "english": "Ten (10)", "portuguese": "Dez" },
+                    { "english": "Eleven (11)", "portuguese": "Onze" },
+                    { "english": "Twelve (12)", "portuguese": "Doze" },
+                    { "english": "Thirteen (13)", "portuguese": "Treze" },
+                    { "english": "Fourteen (14)", "portuguese": "Quatorze" },
+                    { "english": "Fifteen (15)", "portuguese": "Quinze" },
+                    { "english": "Sixteen (16)", "portuguese": "Dezesseis" },
+                    { "english": "Seventeen (17)", "portuguese": "Dezessete" },
+                    { "english": "Eighteen (18)", "portuguese": "Dezoito" },
+                    { "english": "Nineteen (19)", "portuguese": "Dezenove" },
+                    { "english": "Twenty (20)", "portuguese": "Vinte" },
+                    { "english": "Thirty (30)", "portuguese": "Trinta" },
+                    { "english": "Forty (40)", "portuguese": "Quarenta" },
+                    { "english": "Fifty (50)", "portuguese": "Cinquenta" },
+                    { "english": "Sixty (60)", "portuguese": "Sessenta" },
+                    { "english": "Seventy (70)", "portuguese": "Setenta" },
+                    { "english": "Eighty (80)", "portuguese": "Oitenta" },
+                    { "english": "Ninety (90)", "portuguese": "Noventa" },
+                    { "english": "One hundred (100)", "portuguese": "Cem" },
+                    { "english": "One thousand (1000)", "portuguese": "Mil" }
+                  ]
+                },
+                {
+                  "title": "Ordinal",
+                  "content": [
+                    { "english": "First (1st)", "portuguese": "Primeiro" },
+                    { "english": "Second (2nd)", "portuguese": "Segundo" },
+                    { "english": "Third (3rd)", "portuguese": "Terceiro" },
+                    { "english": "Fourth (4th)", "portuguese": "Quarto" },
+                    { "english": "Fifth (5th)", "portuguese": "Quinto" },
+                    { "english": "Sixth (6th)", "portuguese": "Sexto" },
+                    { "english": "Seventh (7th)", "portuguese": "Sétimo" },
+                    { "english": "Eighth (8th)", "portuguese": "Oitavo" },
+                    { "english": "Ninth (9th)", "portuguese": "Nono" },
+                    { "english": "Tenth (10th)", "portuguese": "Décimo" }
+                  ]
+                }
+              ],
+              "examples": [
+                { "english": "I live on the first floor.", "portuguese": "Eu moro no primeiro andar." },
+                { "english": "She finished in second place.", "portuguese": "Ela terminou em segundo lugar." },
+                { "english": "This is my twentieth birthday.", "portuguese": "Este é o meu vigésimo aniversário." }
+              ]
+            }
+          ],
+          "questions_and_answers": [
+            {
+              "question": "What color is the book?",
+              "portuguese": "De que cor é o livro?",
+              "answer": "It's blue.",
+              "portuguese_answer": "É azul."
+            },
+            {
+              "question": "How many chairs are there?",
+              "portuguese": "Quantas cadeiras há?",
+              "answer": "There are five chairs.",
+              "portuguese_answer": "Há cinco cadeiras."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Preposições e Localizações",
+          "words": [
+            {
+              "english": "On",
+              "portuguese": "Em cima de",
+              "questions": [
+                "Where is the pen? It's on the book.",
+                "Is the book on the table?"
+              ]
+            },
+            {
+              "english": "Under",
+              "portuguese": "Debaixo de",
+              "questions": [
+                "Is the chair under the table?",
+                "Where is the cat? Under the chair."
+              ]
+            },
+            {
+              "english": "In",
+              "portuguese": "Dentro de",
+              "questions": [
+                "Is the pen in the box?",
+                "Where is the book? In the bag."
+              ]
+            },
+            {
+              "english": "In front of",
+              "portuguese": "Em frente de",
+              "questions": [
+                "Who is in front of the class?",
+                "Is the car in front of the house?"
+              ]
+            },
+            {
+              "english": "Behind",
+              "portuguese": "Atrás de",
+              "questions": [
+                "Who is behind you?",
+                "Is the garden behind the house?"
+              ]
+            },
+            {
+              "english": "Between",
+              "portuguese": "Entre",
+              "questions": [
+                "What is between the book and the pen?",
+                "Is the shop between the bank and the post office?"
+              ]
+            },
+            {
+              "english": "Before",
+              "portuguese": "Antes",
+              "questions": [
+                "Finish your work before lunch.",
+                "Is the letter 'B' before 'C'?"
+              ]
+            },
+            {
+              "english": "After",
+              "portuguese": "Depois",
+              "questions": [
+                "We will go after dinner.",
+                "Is 'D' after 'C'?"
+              ]
+            },
+            {
+              "english": "Here",
+              "portuguese": "Aqui",
+              "questions": [
+                "Come here, please.",
+                "Is the store here?"
+              ]
+            },
+            {
+              "english": "There",
+              "portuguese": "Lá",
+              "questions": [
+                "What is over there?",
+                "Is your house there?"
+              ]
+            }
+          ],
+          "structures_and_examples": [
+            {
+              "title": "Prepositions of Place",
+              "examples": [
+                { "english": "The book is on the table.", "portuguese": "O livro está em cima da mesa." },
+                { "english": "The cat is under the chair.", "portuguese": "O gato está debaixo da cadeira." },
+                { "english": "The pen is in the box.", "portuguese": "A caneta está dentro da caixa." },
+                { "english": "She is standing in front of the class.", "portuguese": "Ela está em frente da classe." },
+                { "english": "The garden is behind the house.", "portuguese": "O jardim está atrás da casa." }
+              ]
+            }
+          ],
+          "questions_and_answers": [
+            {
+              "question": "Where is the pen?",
+              "portuguese": "Onde está a caneta?",
+              "answer": "It's on the book.",
+              "portuguese_answer": "Está em cima do livro."
+            },
+            {
+              "question": "Is the chair under the table?",
+              "portuguese": "A cadeira está debaixo da mesa?",
+              "answer": "Yes, it is.",
+              "portuguese_answer": "Sim, está."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Cidades, Países e Capitais",
+          "words": [
+            {
+              "english": "City",
+              "portuguese": "Cidade",
+              "questions": [
+                "Is London a city?",
+                "Do you live in a city?"
+              ]
+            },
+            {
+              "english": "Town",
+              "portuguese": "Cidade pequena",
+              "questions": [
+                "Is this town large?",
+                "Do you live in a town?"
+              ]
+            },
+            {
+              "english": "Village",
+              "portuguese": "Vila",
+              "questions": [
+                "Is this a village?",
+                "Is the village small?"
+              ]
+            },
+            {
+              "english": "Capital",
+              "portuguese": "Capital",
+              "questions": [
+                "What is the capital of England?",
+                "Is Beijing the capital of China?"
+              ]
+            },
+            {
+              "english": "England",
+              "portuguese": "Inglaterra",
+              "questions": [
+                "Where is England?",
+                "Is England a country?"
+              ]
+            },
+            {
+              "english": "Russia",
+              "portuguese": "Rússia",
+              "questions": [
+                "Is Russia the largest country?",
+                "Where is Russia?"
+              ]
+            },
+            {
+              "english": "Greece",
+              "portuguese": "Grécia",
+              "questions": [
+                "Have you been to Greece?",
+                "Is Greece in Europe?"
+              ]
+            },
+            {
+              "english": "China",
+              "portuguese": "China",
+              "questions": [
+                "Is China a large country?",
+                "Do you know anyone from China?"
+              ]
+            },
+            {
+              "english": "London",
+              "portuguese": "Londres",
+              "questions": [
+                "Is London the capital of England?",
+                "Have you visited London?"
+              ]
+            },
+            {
+              "english": "Moscow",
+              "portuguese": "Moscou",
+              "questions": [
+                "Is Moscow the capital of Russia?",
+                "Is Moscow a big city?"
+              ]
+            },
+            {
+              "english": "Athens",
+              "portuguese": "Atenas",
+              "questions": [
+                "Is Athens the capital of Greece?",
+                "Is Athens an ancient city?"
+              ]
+            },
+            {
+              "english": "Beijing",
+              "portuguese": "Pequim",
+              "questions": [
+                "Is Beijing the capital of China?",
+                "Have you been to Beijing?"
+              ]
+            }
+          ],
+          "structures_and_examples": [
+            {
+              "title": "Describing Places",
+              "examples": [
+                { "english": "London is the capital of England.", "portuguese": "Londres é a capital da Inglaterra." },
+                { "english": "Beijing is a large city.", "portuguese": "Pequim é uma cidade grande." }
+              ]
+            }
+          ],
+          "questions_and_answers": [
+            {
+              "question": "Is London a village?",
+              "portuguese": "Londres é uma vila?",
+              "answer": "No, London isn't a village; it's a city.",
+              "portuguese_answer": "Não, Londres não é uma vila; é uma cidade."
+            },
+            {
+              "question": "What is the capital of China?",
+              "portuguese": "Qual é a capital da China?",
+              "answer": "The capital of China is Beijing.",
+              "portuguese_answer": "A capital da China é Pequim."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Pessoas e Descrições",
+          "words": [
+            {
+              "english": "Man",
+              "portuguese": "Homem",
+              "questions": [
+                "Is this a man?",
+                "Is the man tall?"
+              ]
+            },
+            {
+              "english": "Woman",
+              "portuguese": "Mulher",
+              "questions": [
+                "Is this a woman?",
+                "Is the woman short?"
+              ]
+            },
+            {
+              "english": "Boy",
+              "portuguese": "Menino",
+              "questions": [
+                "Is this a boy?",
+                "Is the boy happy?"
+              ]
+            },
+            {
+              "english": "Girl",
+              "portuguese": "Menina",
+              "questions": [
+                "Is this a girl?",
+                "Is the girl young?"
+              ]
+            },
+            {
+              "english": "Me",
+              "portuguese": "Eu/Mim",
+              "questions": [
+                "Can you help me?",
+                "Is it for me?"
+              ]
+            },
+            {
+              "english": "You",
+              "portuguese": "Você",
+              "questions": [
+                "How are you?",
+                "Do you like it?"
+              ]
+            },
+            {
+              "english": "Him",
+              "portuguese": "Ele/Dele",
+              "questions": [
+                "Can you see him?",
+                "Is that book for him?"
+              ]
+            },
+            {
+              "english": "Her",
+              "portuguese": "Ela/Dela",
+              "questions": [
+                "I gave her a gift.",
+                "Do you know her?"
+              ]
+            },
+            {
+              "english": "Us",
+              "portuguese": "Nós",
+              "questions": [
+                "Can you tell us the story?",
+                "They are with us."
+              ]
+            },
+            {
+              "english": "Them",
+              "portuguese": "Eles/Elas",
+              "questions": [
+                "Do you see them?",
+                "I will meet them later."
+              ]
+            },
+            {
+              "english": "Standing",
+              "portuguese": "Em pé",
+              "questions": [
+                "Are you standing?",
+                "Who is standing?"
+              ]
+            },
+            {
+              "english": "Sitting",
+              "portuguese": "Sentado",
+              "questions": [
+                "Is she sitting?",
+                "They are sitting over there."
+              ]
+            },
+            {
+              "english": "Doing",
+              "portuguese": "Fazendo",
+              "questions": [
+                "What are you doing?",
+                "She is doing her homework."
+              ]
+            },
+            {
+              "english": "Which",
+              "portuguese": "Qual",
+              "questions": [
+                "Which one do you want?",
+                "Which is your book?"
+              ]
+            }
+          ],
+          "structures_and_examples": [
+            {
+              "title": "Describing People",
+              "examples": [
+                { "english": "He is a tall man.", "portuguese": "Ele é um homem alto." },
+                { "english": "She is a young girl.", "portuguese": "Ela é uma menina jovem." },
+                { "english": "They are sitting over there.", "portuguese": "Eles estão sentados ali." }
+              ]
+            }
+          ],
+          "questions_and_answers": [
+            {
+              "question": "Is this a girl?",
+              "portuguese": "Isto é uma menina?",
+              "answer": "No, it isn't a girl; it's a man.",
+              "portuguese_answer": "Não, não é uma menina; é um homem."
+            },
+            {
+              "question": "What are you doing?",
+              "portuguese": "O que você está fazendo?",
+              "answer": "I am reading a book.",
+              "portuguese_answer": "Estou lendo um livro."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Casa e Vestuário",
+          "words": [
+            {
+              "english": "Clothes",
+              "portuguese": "Roupas",
+              "questions": [
+                "Where are your clothes?",
+                "Do you like these clothes?"
+              ]
+            },
+            {
+              "english": "Shoe",
+              "portuguese": "Sapato",
+              "questions": [
+                "Is this your shoe?",
+                "Where is my other shoe?"
+              ]
+            },
+            {
+              "english": "Sock",
+              "portuguese": "Meia",
+              "questions": [
+                "I need a pair of socks.",
+                "Are these socks clean?"
+              ]
+            },
+            {
+              "english": "Trousers",
+              "portuguese": "Calças",
+              "questions": [
+                "These trousers are new.",
+                "Do you like my trousers?"
+              ]
+            },
+            {
+              "english": "Jacket",
+              "portuguese": "Jaqueta",
+              "questions": [
+                "It's cold, wear a jacket.",
+                "Is this your jacket?"
+              ]
+            },
+            {
+              "english": "Suit",
+              "portuguese": "Terno",
+              "questions": [
+                "He is wearing a suit.",
+                "Do you own a suit?"
+              ]
+            },
+            {
+              "english": "Shirt",
+              "portuguese": "Camisa",
+              "questions": [
+                "Your shirt is nice.",
+                "Where did you buy that shirt?"
+              ]
+            },
+            {
+              "english": "Tie",
+              "portuguese": "Gravata",
+              "questions": [
+                "Do you know how to tie a tie?",
+                "He is wearing a red tie."
+              ]
+            },
+            {
+              "english": "Hat",
+              "portuguese": "Chapéu",
+              "questions": [
+                "I like your hat.",
+                "Is that a new hat?"
+              ]
+            }
+          ],
+          "structures_and_examples": [
+            {
+              "title": "Describing Clothing",
+              "examples": [
+                { "english": "She is wearing a blue dress.", "portuguese": "Ela está vestindo um vestido azul." },
+                { "english": "He has a hat on his head.", "portuguese": "Ele tem um chapéu na cabeça." }
+              ]
+            }
+          ],
+          "questions_and_answers": [
+            {
+              "question": "What is he wearing?",
+              "portuguese": "O que ele está vestindo?",
+              "answer": "He is wearing a suit and tie.",
+              "portuguese_answer": "Ele está vestindo um terno e gravata."
+            },
+            {
+              "question": "Do you like these clothes?",
+              "portuguese": "Você gosta dessas roupas?",
+              "answer": "Yes, they are very nice.",
+              "portuguese_answer": "Sim, elas são muito bonitas."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Língua e Comunicação",
+          "words": [
+            {
+              "english": "Alphabet",
+              "portuguese": "Alfabeto",
+              "questions": [
+                "How many letters are in the English alphabet?",
+                "Can you recite the alphabet?"
+              ]
+            },
+            {
+              "english": "Letter",
+              "portuguese": "Letra",
+              "questions": [
+                "What is the first letter of your name?",
+                "Is 'A' a vowel or a consonant?"
+              ]
+            },
+            {
+              "english": "Vowel",
+              "portuguese": "Vogal",
+              "questions": [
+                "How many vowels are there?",
+                "Name the vowels in English."
+              ]
+            },
+            {
+              "english": "Consonant",
+              "portuguese": "Consoante",
+              "questions": [
+                "Is 'B' a consonant?",
+                "List some consonants."
+              ]
+            },
+            {
+              "english": "Reading",
+              "portuguese": "Leitura",
+              "questions": [
+                "Do you enjoy reading?",
+                "What are you reading now?"
+              ]
+            },
+            {
+              "english": "Writing",
+              "portuguese": "Escrita",
+              "questions": [
+                "Is writing in English easy?",
+                "Practice your writing skills."
+              ]
+            }
+          ],
+          "structures_and_examples": [
+            {
+              "title": "Language Basics",
+              "examples": [
+                { "english": "The English alphabet has 26 letters.", "portuguese": "O alfabeto inglês tem 26 letras." },
+                { "english": "A, E, I, O, U are vowels.", "portuguese": "A, E, I, O, U são vogais." }
+              ]
+            }
+          ],
+          "questions_and_answers": [
+            {
+              "question": "How many vowels are there in English?",
+              "portuguese": "Quantas vogais existem em inglês?",
+              "answer": "There are five vowels.",
+              "portuguese_answer": "Existem cinco vogais."
+            },
+            {
+              "question": "Do you like writing?",
+              "portuguese": "Você gosta de escrever?",
+              "answer": "Yes, I enjoy writing stories.",
+              "portuguese_answer": "Sim, eu gosto de escrever histórias."
+            }
+          ]
+        }
+      ],
+      "teacher_tips": [
+        "Repetição: Incentive os alunos a repetir palavras e frases para melhorar a pronúncia e memorização.",
+        "Interação Oral: Promova diálogos simples, fazendo perguntas e estimulando os alunos a responderem.",
+        "Uso de Recursos Visuais: Utilize flashcards, imagens e objetos reais para tornar o aprendizado mais envolvente.",
+        "Prática em Grupo: Organize atividades em pares ou grupos para que os alunos pratiquem juntos.",
+        "Feedback Positivo: Elogie os esforços dos alunos e ofereça correções de forma encorajadora."
+      ],
+      "final_notes": "Esta apostila foi elaborada para proporcionar uma introdução ao inglês de forma dinâmica e interativa, seguindo os princípios do ensino direto. Sinta-se à vontade para adaptar o material conforme as necessidades específicas de sua turma. Boa aula e bom aprendizado a todos!"
+    }
   ]
 }
-
-
